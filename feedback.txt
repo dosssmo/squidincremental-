@@ -14,5 +14,5 @@ BUGS
 - Rebirth ink multiplier upgrade not working
 - Sand crystal collection is server sided
 - There's something invisible in the way on the stairs in the sand crystal area
-- When you reset your character, all the UI in the game resets (even SurfaceGui)
+- When you reset your character, all the UI in the game resets (even SurfaceGui), and none of the UI works anymore
 - Rebirth prices don't scale so you can just not rebirth and stack up a bunch of rebirths and progression becomes fast
