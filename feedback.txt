@@ -1,0 +1,18 @@
+Squidwn incrmenetal Feedback
+
+SUGGESTIONS
+- Slow start. Decrease the cooldown a little bit. Make a buy max button
+- Show how much ink you get per increment
+- Decrease the rebirth token prices. Make the first one cost 1 Rebirth Token so the player can get a feel for rebirthing and decrease the other ones so they're easier to get
+- Show the max level of each upgrade
+- Sand crystals are unlocked too early (at least with the progression right now). At least let the player get a decent amount of rebirths before they go in
+- Make some kind of notifier when you can unlock the next area
+
+BUGS
+- Level bar only fills up to halfway (leveling still works)
+- SP isn't gotten from levels. Make the default 1 SP per level (if you can only get SP from the rebirth upgrade)
+- Rebirth ink multiplier upgrade not working
+- Sand crystal collection is server sided
+- There's something invisible in the way on the stairs in the sand crystal area
+- When you reset your character, all the UI in the game resets (even SurfaceGui)
+- Rebirth prices don't scale so you can just not rebirth and stack up a bunch of rebirths and progression becomes fast
